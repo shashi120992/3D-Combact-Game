@@ -20,7 +20,7 @@
 
 # Used notable mentions for the development.
 
-* **MVC design Pattern for Player Services**
-* **Objects for spawning Enemies**
-* **Health bar & Achievement system for player system**
-* **AI Behavioural for Enemy Services**  
+* **MVC design Pattern for Player Services.**
+* **Objects for spawning Enemies.**
+* **Health bar & Achievement system for player system.**
+* **AI Behavioural for Enemy Services.**  
